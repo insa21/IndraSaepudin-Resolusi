@@ -7,3 +7,6 @@ RENCANA KONTEN INDRA
  * creator
 - membuat website
 - membuat animasi
+  * naruto
+- menambah buku
+  *komik
