@@ -1,5 +1,7 @@
 RENCANA KONTEN INDRA 
 
 - membuat yt
+  * membuat konten sederhana
+  * membuat konten yt kreatif
 - membuat konten
 - membuat website
