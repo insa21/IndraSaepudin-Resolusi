@@ -4,4 +4,6 @@ RENCANA KONTEN INDRA
   * membuat konten sederhana
   * membuat konten yt kreatif
 - membuat konten
+ * creator
 - membuat website
+- membuat animasi
